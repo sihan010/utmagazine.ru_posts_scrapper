@@ -1,0 +1,16 @@
+{
+  "name": "utmagazine-scrapper",
+  "version": "1.0.0",
+  "description": "https://utmagazine.ru/finansoviy-slovar-treidera",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Manal",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
